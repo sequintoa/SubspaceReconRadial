@@ -1,6 +1,7 @@
 # SubspaceReconRadial
 Subspace based reconstruction for radial Turbo Spin Echo data. 
 
+Mahesh Keerthivasan, University of Arizona
 
 ### Code Organization 
 - src/ :  ADMM solver for subspace reconstruction of radial TSE data
